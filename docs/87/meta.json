@@ -4,7 +4,7 @@
  "title": "Ungesundes Klima in deutschen Städten?",
  "abstract": "Auch in Deutschland betrifft der Klimawandel nicht alle Menschen und deren Gesundheit gleichermaßen. Soziale Ungleichheiten verstärken intersektional die Auswirkungen von Klimawandel und Umweltbelastungen auf die Gesundheit. Mit den Ansätzen der Environmental Justice und Feminist Political Ecology soll auf intersektionale Merkmale der Umwelt(un)gerechtigkeit im Bezug auf Gesundheit geschaut werden und auch Lösungsstrategien für mehr Umweltgerechtigkeit, unter anderem am Beispiel Berlins, vorgestellt werden.",
  "year": 2021,
- "freidok": "",
+ "freidok": "https://freidok.uni-freiburg.de/data/194041",
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/MetaData2021b/87/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/MetaData2021b/87/thumbnail.png",
@@ -14,8 +14,8 @@
      "firstname": "Jorid",
      "name": "Wempe",
      "email": "jwempe@posteo.de",
-     "freidok":"",
-     "orcid": ""
+     "freidok":"https://freidok.uni-freiburg.de/data/194041",
+     "orcid": "https://orcid.org/0000-0003-2931-222X"
    }
  ],
  "location": {
@@ -37,28 +37,84 @@
  "keywords": ["Stadt","Gesundheit","Umweltgerechtigkeit"], 
  "sources": [
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+   "type": 
+      "authors": "Weltgesundheitsorganisation, Regionalbüro für Europa",
+      "year": 2019
+      "title": "Gesundheitshinweise zur Prävention hitzebedingter Gesundheitsschäden. Neue und aktualisierte Hinweise für unterschiedliche Zielgruppen.",
+      "doi": 
+      "url": "https://www.euro.who.int/__data/assets/pdf_file/0015/402072/PublicHealth-German5bis.pdf",
+      "journal": 
+      "volume": 
+      "publisher": "Weltgesundheitsorganisation"
+      "pages": 
    },
    {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
+      "type": "Article",
+      "authors": "Kemper, Jan",
+      "year": 2018
+      "title": "Ungleichheit in den Städten. Stadtentwicklung und soziale Ungleichheit",
       "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
+      "url": "https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216890/stadtentwicklung-und-soziale-ungleichheit",
+      "journal": 
+      "volume": 
+      "publisher": "Bundeszentrale für politische Bildung"
+      "pages": 
+  },
+   {
+      "type": "Article"
+      "authors": "Bauriedl, Sybille",
+      "year": 2018
+      "title": "Stadt und/oder Natur? Der Stellenwert von Natur in der Stadtentwicklung"
+      "url": "https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216881/natur-und-stadtentwicklung",
+      "journal": 
+      "volume": 
+      "publisher": "Bundeszentrale für politische Bildung"
+      "pages": 
+   },
+   {
+      "type": "Hintergrundpapier"
+      "authors": "Umweltbundesamt",
+      "year": 2009
+      "title": "Feinstaubbelastung in Deutschland"
+      "url": "https://www.umweltbundesamt.de/publikationen/feinstaubbelastung-in-deutschland",
+      "journal": 
+      "volume": 
+      "publisher": "Umweltbundesamt"
+      "pages": 
+   },
+   {
+      "type": "Daten"
+      "authors": "Umweltbundesamt",
+      "year": 2020
+      "title": "Gesundheitsrisiken durch Hitze"
+      "url": "https://www.umweltbundesamt.de/daten/umwelt-gesundheit/gesundheitsrisiken-durch-hitze#indikatoren-der-lufttemperaturheisse-tage-und-tropennachte",
+      "journal": 
+      "volume": 
+      "publisher": "Umweltbundesamt"
+      "pages": 
+   },
+   {
+      "type": "Daten"
+      "authors": "Umweltbundesamt",
+      "year": 2020
+      "title": "Gesundheitsrisiken durch Hitze"
+      "url": "https://www.umweltbundesamt.de/daten/umwelt-gesundheit/gesundheitsrisiken-durch-hitze#indikatoren-der-lufttemperaturheisse-tage-und-tropennachte",
+      "journal": 
+      "volume": 
+      "publisher": "Umweltbundesamt"
+      "pages": 
+   },
+   {
+      "type": "Daten"
+      "authors": "Senatsverwaltung für Stadtentwicklung und Wohnen Berlin",
+      "year": 2015
+      "title": "Umweltatlas Berlin. Umweltgerechtigkeit (Ausgabe 2015)"
+      "url": "https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/i901.htm"
+      "volume": 
+      "publisher": "Senatsverwaltung für Stadtentwicklung und Wohnen Berlin"
+      "pages": 
+   },
+   {
    }
  ]
   
